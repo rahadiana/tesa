@@ -1,0 +1,1 @@
+curl -Ss 'https://shopee.co.id/api/v4/product/get_shop_info?shopid=80112798' > data/user/80112798.json
